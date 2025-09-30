@@ -1,1 +1,2 @@
 # Revolutionizing-Agriculture-with-AgriEdge-Or-Mange-Ltd-A-Salesforce-Driven-Order-Management-Solution
+AgriEdge Order Management App is a custom Salesforce Lightning solution that streamlines agricultural order processing by connecting Farmers, Distributors, and Warehouses, with automated stock updates, delivery tracking, duplicate prevention, real-time notifications, and interactive dashboards for sales and inventory insights
